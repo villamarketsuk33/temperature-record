@@ -1,0 +1,6 @@
+[
+  {"id":"frozen-v1","label":"Frozen","max":-20,"warningMax":-15,"criticalMin":-10,"criticalInclusive":true},
+  {"id":"deli-v1","label":"เดลิกา / เนื้อสัตว์","max":2,"warningMax":null,"criticalMin":10,"criticalInclusive":false},
+  {"id":"dairy-v1","label":"นม / ชีส","max":4,"warningMax":null,"criticalMin":null,"criticalInclusive":false},
+  {"id":"produce-v1","label":"ผัก / ผลไม้","max":8,"warningMax":null,"criticalMin":null,"criticalInclusive":false}
+]
